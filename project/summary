@@ -1,0 +1,3 @@
+•	Design and implement linear regression modeling to perform statistical analysis for opioid epidemic and observed the correlation between our research and two articles suggested conclusion.
+•	Collect and extract data from government websites, process raw data for regression, handle missing values and build relative regression models
+•	Perform the statistical analyses including linear regression analysis, statistical modeling(GLM, Logistic Model, and Cox Model) with RStudio, presented the process of the whole project and create report based on finding.
